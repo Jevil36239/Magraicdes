@@ -27,3 +27,16 @@ adalah ya lu paham lah, ngapain juga gua niat bikin gini :v.
 + tqdm   -> Buat nunjukin progress bar
 + colorama -> kOOde Warna :v
 
+
+> Important Messaged
+```
+wii woo wii wooo 
+brrr obey the loading messages :3
+```
+
+
+> Demo Gif
+
+![Image of Screenshot](https://e.top4top.io/p_2637s09i51.gif)
+
+`OPEN SOURCE` ✓
